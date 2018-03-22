@@ -17,3 +17,6 @@ body{
 .columnone{
     border: red;
 }
+#myContents{
+    padding: 1%;
+}
