@@ -19,4 +19,23 @@ body{
 }
 #myContents{
     padding: 1%;
+    display: none;
+}
+#opera{
+    display: none;
+}
+#var{
+    display: none;
+}
+#chainn{
+    display: none;
+}
+#boolea{
+    display: none;
+}
+.horizontal button{
+    display: inline-block;
+}
+.contents{
+    margin-top: 1em;
 }
